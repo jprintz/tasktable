@@ -1,23 +1,32 @@
 {
-    "tasks": [{
-        "project":"Ladan",
-        "title":"Laga taket",
-        "status":"In Progress",
-        "priority":"3"
-    }, {
-        "project":"Ladan",
-        "title":"Måla ytterpanel",
-        "status":"New",
-        "priority":"1"
-    }, {
-        "project":"Stugan",
-        "title":"Städa ur",
-        "status":"New",
-        "priority":"2"
-    }, {
-        "project":"Boden",
-        "title":"Byta dörrar",
-        "status":"New",
-        "priority":"2"
-    }]
+    "tasks": [
+        {
+            "project": "Ladan",
+            "title": "Laga taket",
+            "status": "In Progress",
+            "priority": "3",
+            "id": "b9bc6df1-ce2d-4164-9410-9533e902f163"
+        },
+        {
+            "project": "Ladan",
+            "title": "Måla ytterpanel",
+            "status": "New",
+            "priority": "1",
+            "id": "4d553b3f-b71e-4741-81e3-9a2c99b8393f"
+        },
+        {
+            "project": "Stugan",
+            "title": "Städa ur",
+            "status": "New",
+            "priority": "2",
+            "id": "adb741ff-345c-4a19-aecb-f1924cf74c40"
+        },
+        {
+            "project": "Boden",
+            "title": "Byta dörrar",
+            "status": "New",
+            "priority": "2",
+            "id": "816997e0-9c86-43c0-aa0c-92db1bcca24b"
+        }
+    ]
 }
